@@ -6,11 +6,14 @@ public class CastingEx {
     문제 실 수령액을 계산하세요 : 급여 - (급여*세금)
     실 수령액 : 829348원
     int pay=857650;
-    double tax=0.33;
+    double tax=0.033;
 */
+        int pay=857650;
+        double tax=0.033;
 
+        int Income = pay - (int)(pay*tax);
 
-
+        System.out.println("실 수령액 : "+Income);
 // -------------------------------------------------------
         int k=87, e=88, m=75;
 
