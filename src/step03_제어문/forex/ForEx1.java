@@ -29,7 +29,7 @@ public class ForEx1 {
 
         // 100 97 94 ... 82
         for(int i = 100; i>=82; i-=3){
-            System.out.print(i+"    ");
+            System.out.print(i+"  ");
         }
     }
 }
