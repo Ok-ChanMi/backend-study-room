@@ -1,7 +1,7 @@
 package step04_메서드.inputex;
 /*
     Argument 를 이용하여 입력받고 출력하세요
-    $ java InputTest& 103 뽀로로 C 75.3
+    $ java InputTest7 103 뽀로로 C 75.3
 
     -- 결과
     사원번호 : 103
