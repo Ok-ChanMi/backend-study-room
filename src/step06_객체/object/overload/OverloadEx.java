@@ -21,6 +21,6 @@ public class OverloadEx {
         OverloadEx ob=new OverloadEx();
         System.out.println("큰수 : "+ob.max());
         System.out.println("큰수 : "+ob.max(75, 100));
-        System.out.println("큰수 : "+ob.max(90.5f, 50.4f));
+        System.out.println("큰수 : "+ob.max(90.5f, 50.4f ));
     }
 }
