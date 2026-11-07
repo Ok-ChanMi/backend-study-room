@@ -19,6 +19,14 @@ public class ConstructorEx6 {
         // 총점 : 253
         // 평균 : 84.33
         // 학점 : B
-
+        st = new Student("민들래", 95, 85, 73);
+        System.out.println("이름 : "+st.getName());
+        System.out.println("국어 : "+st.getKor());
+        System.out.println("영어 : "+st.getEng());
+        System.out.println("수학 : "+st.getMat());
+        System.out.println("총점 : "+st.getTotal());
+        System.out.printf("평균 : %.2f\n",st.getAvg());
+        // System.out.println(String.format("평균 : %.2f",st.getAvg()));
+        System.out.println("학점 : "+st.getGrade());
     }
 }
