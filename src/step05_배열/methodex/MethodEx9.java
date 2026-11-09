@@ -1,4 +1,4 @@
-package step05_배열.array.methodex;
+package step05_배열.methodex;
 
 public class MethodEx9 {
 

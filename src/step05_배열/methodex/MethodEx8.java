@@ -1,4 +1,4 @@
-package step05_배열.array.methodex;
+package step05_배열.methodex;
 // call vy reference : 참조에 의한 값의 전달
 // 객체 자료형(class), 배역
 public class MethodEx8 {

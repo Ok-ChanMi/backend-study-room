@@ -1,4 +1,4 @@
-package step08_상속.object.inheritance;
+package step08_상속.inheritance;
 // -------------------------------------1. 상속을 사용하지 않을 때 메서드 처리
 /*
 class SuperEx {

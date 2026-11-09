@@ -1,4 +1,4 @@
-package step08_상속.object.constructor;
+package step08_상속.constructor;
 /*
     클래스명 : Book
     -title : String

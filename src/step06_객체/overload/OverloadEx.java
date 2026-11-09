@@ -1,4 +1,4 @@
-package step06_객체.object.overload;
+package step06_객체.overload;
 /* method overload(중복 함수) : 같은 이름의 함수를 여러번 구현
 *  1. 반드시 함수 이름 동일
 *  2. 매개변수의 자료형이 다르거나 개수가 달라야 함

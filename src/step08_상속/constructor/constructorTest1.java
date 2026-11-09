@@ -1,4 +1,4 @@
-package step08_상속.object.constructor;
+package step08_상속.constructor;
 /*
     클래스명 : Member
     -name : String 초기값 : 이순신

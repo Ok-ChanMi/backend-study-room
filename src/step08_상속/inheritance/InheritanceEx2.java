@@ -1,4 +1,4 @@
-package step08_상속.object.inheritance;
+package step08_상속.inheritance;
 // 생성자
 class ParentEx{
     public ParentEx(){
