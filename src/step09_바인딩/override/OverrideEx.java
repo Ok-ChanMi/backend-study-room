@@ -12,6 +12,10 @@ class Test2 extends Test1{
 public class OverrideEx {
     public static void main(String[] args) {
         Test1 ob = new Test2();   // 부모 클래스의 참조변수로 자식 객체 생성
+        ob.view1(); // view11
+//        ob.view2();  // error
+        ob.view3(); // view3
+
 
 //        Test2 ob = new Test2();  // 자식 클래스의 참조변수로 자식 객체 생성
 //        ob.view1(); //view11

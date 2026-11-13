@@ -1,0 +1,8 @@
+package step09_바인딩.animal;
+
+public class Cat extends Animal{
+    @Override
+    public void speak(){
+        System.out.println("야옹~");
+    }
+}
